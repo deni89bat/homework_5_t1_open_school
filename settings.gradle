@@ -1,4 +1,4 @@
-rootProject.name = 'homework_4_t1_open_school'
+rootProject.name = 'homework_5_t1_open_school'
 include 'api-tests', 'ui-tests'
 
 
